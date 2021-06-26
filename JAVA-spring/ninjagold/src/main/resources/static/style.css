@@ -1,0 +1,19 @@
+*{
+	margin:0;
+}
+.myContainer {
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+.green {
+	color:green
+}
+.red{
+	color: red;
+}
+.activities{
+	background-color: black;
+	height: 200px;
+	overflow : auto;
+}
