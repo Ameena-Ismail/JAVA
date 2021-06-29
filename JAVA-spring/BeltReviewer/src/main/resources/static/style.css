@@ -1,0 +1,12 @@
+
+.hi {
+	border: none;
+}
+
+.makeborder{
+	border: 1px solid grey;
+}
+.mytable {
+	width: 100%;
+	padding; 10px;
+}

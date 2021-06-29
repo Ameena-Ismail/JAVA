@@ -1,0 +1,21 @@
+
+.hi {
+	border: none;
+}
+
+.makeborder{
+	border: 1px solid grey;
+}
+.mytable {
+	width: 100%;
+}
+.mytable td{
+	padding: 5px;
+}
+.mytable tr{
+	padding-bottom: 5px;
+}
+errormessage{
+	margin-bottom: 100px;
+	color:red;
+}
